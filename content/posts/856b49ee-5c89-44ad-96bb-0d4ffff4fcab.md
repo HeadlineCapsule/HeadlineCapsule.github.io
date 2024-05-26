@@ -2,9 +2,8 @@
 title: 饱受批评的英国水公司抨击监管系统“繁琐复杂”
 date: 2024-05-20T04:00:49.185Z
 description: Industry lobby group criticises Ofwat for ‘slow’ and ‘inflexible’ processes that delay vital infrastructure
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

@@ -2,9 +2,8 @@
 title: Permira 以 69 亿美元的价格将网站构建器 Squarespace 私有化
 date: 2024-05-13T15:25:29.893Z
 description: Move underlines trend for private equity firms to buy back listed companies
-tag: 
-
-- Tag technology
+tags: 
+- technology
 author: ft
 ---
 

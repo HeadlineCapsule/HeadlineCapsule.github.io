@@ -2,9 +2,8 @@
 title: 英伟达的竞争对手瞄准其软件主导地位
 date: 2024-05-21T04:00:03.448Z
 description: OpenAI-led push for an alternative to ‘Cuda’ seeks to break chipmaker’s stranglehold on AI market
-tag: 
-
-- Tag companies
+tags: 
+- companies
 author: ft
 ---
 

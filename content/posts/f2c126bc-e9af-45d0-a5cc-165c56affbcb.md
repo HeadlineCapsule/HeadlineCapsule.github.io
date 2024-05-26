@@ -2,9 +2,8 @@
 title: 中国加速发展汽车芯片，高带宽内存变革存储行业
 date: 2024-05-16T07:30:46.231Z
 description: The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
-tag: 
-
-- Tag us
+tags: 
+- us
 author: ft
 ---
 

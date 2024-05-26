@@ -2,9 +2,8 @@
 title: 吉布提寄希望于转基因蚊子来遏制城市疟疾浪潮
 date: 2024-05-23T04:00:37.046Z
 description: Anopheles stephensi modified so that the biting females die are to be released across the country
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

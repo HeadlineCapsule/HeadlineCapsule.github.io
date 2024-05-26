@@ -2,9 +2,8 @@
 title: 巴西最高法院推翻“洗车”腐败案判决
 date: 2024-05-22T21:21:21.112Z
 description: Reversal of high-profile rulings comes as country backtracks on major graft probe
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

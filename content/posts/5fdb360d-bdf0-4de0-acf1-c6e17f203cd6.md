@@ -2,9 +2,8 @@
 title: 台湾因中国加剧军事恐吓而陷入政治动荡
 date: 2024-05-24T17:01:56.283Z
 description: Opposition seeks to curb new president’s administration while Beijing sends fighters, bombers and navy to patrol around island
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

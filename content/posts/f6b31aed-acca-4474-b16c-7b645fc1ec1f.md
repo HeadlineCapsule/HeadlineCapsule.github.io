@@ -2,9 +2,8 @@
 title: 美国军方向海地空运物资，为外国安保力量做准备
 date: 2024-05-12T09:00:21.240Z
 description: Civilian contractors, equipment and supplies arrive in Port-au-Prince to lay groundwork for long-stalled deployment
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

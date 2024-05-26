@@ -2,9 +2,8 @@
 title: 撤资股份：效果如何？
 date: 2024-05-18T04:00:42.089Z
 description: Offloading shares for moral reasons needs to be part of an overarching strategy
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

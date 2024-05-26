@@ -2,12 +2,11 @@
 title: 北马其顿民族主义者有望在选举中卷土重来
 date: 2024-05-08T04:00:49.041Z
 description: Right-wing VMRO party expected to win in Wednesday elections — a potential setback to country’s EU bid
-tag: 
-
-- Tag 'Georgia'
-- Tag  'Europe Express'
-- Tag  'The editorial board'
-- Tag  'EU enlargement'
+tags: 
+- Georgia
+- Europe Express
+- The editorial board
+- EU enlargement
 author: ft
 ---
 

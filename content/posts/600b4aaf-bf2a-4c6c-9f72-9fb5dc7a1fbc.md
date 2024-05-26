@@ -2,9 +2,8 @@
 title: 拜登阻止公开与机密文件调查相关的音频记录
 date: 2024-05-16T19:51:54.090Z
 description: Move stems from controversial report that called into question US president’s fitness for office
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

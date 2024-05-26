@@ -2,9 +2,8 @@
 title: “真正的蓝色”转向绿色，因为党派利用乡村浪潮
 date: 2024-05-14T04:00:45.431Z
 description: The environmentalists are enjoying dramatic success with voters in rural Conservative areas
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

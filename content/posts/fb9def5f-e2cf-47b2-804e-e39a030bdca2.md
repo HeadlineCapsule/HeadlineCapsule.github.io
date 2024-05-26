@@ -2,9 +2,8 @@
 title: 一级方程式赛车追求 VIP 极乐世界
 date: 2024-05-11T08:00:24.731Z
 description: Also in this week’s newsletter, English football’s casino league and Aston Villa’s grand ambitions
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

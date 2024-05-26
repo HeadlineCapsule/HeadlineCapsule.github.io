@@ -2,9 +2,8 @@
 title: 英国报业集团警告苹果公司不要阻挡广告
 date: 2024-05-12T14:06:56.224Z
 description: UK press says proposed ‘web eraser’ tool in next iOS update threatens journalism’s financial sustainability
-tag: 
-
-- Tag technology
+tags: 
+- technology
 author: ft
 ---
 

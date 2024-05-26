@@ -2,9 +2,8 @@
 title: 市场的繁荣能持续多久？
 date: 2024-05-18T04:00:42.061Z
 description: We should at least be alive to the risks of a reckoning
-tag: 
-
-- Tag markets
+tags: 
+- markets
 author: ft
 ---
 

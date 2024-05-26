@@ -2,9 +2,8 @@
 title: Meta 和伊隆·马斯克的xAI争相与聊天机器人公司Character.ai合作
 date: 2024-05-24T21:00:23.801Z
 description: Talks come as Big Tech seeks tie-ups with Silicon Valley artificial intelligence firms
-tag: 
-
-- Tag companies
+tags: 
+- companies
 author: ft
 ---
 

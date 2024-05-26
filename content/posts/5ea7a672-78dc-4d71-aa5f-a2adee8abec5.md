@@ -2,9 +2,8 @@
 title: “无限期”休假的局限性
 date: 2024-05-24T16:39:37.405Z
 description: Advertised as good for workers, the policy often does little to increase time off
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

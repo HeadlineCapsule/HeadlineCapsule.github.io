@@ -2,14 +2,13 @@
 title: 巴里克首席执行官警告称，并购无法解决即将到来的铜短缺问题
 date: 2024-05-08T04:00:49.185Z
 description: Amid BHP approach for Anglo, prolific dealmaker says consolidation does not guarantee more production
-tag: 
-
-- Tag 'Industrial metals'
-- Tag  'BHP Group Ltd'
-- Tag  'Rio Tinto PLC'
-- Tag  "GMK Noril'skiy nikel' OAO"
-- Tag  'The editorial board'
-- Tag  'Anglo American PLC'
+tags: 
+- Industrial metals
+- BHP Group Ltd
+- Rio Tinto PLC
+- "GMK Norilskiy nikel OAO"
+- The editorial board
+- Anglo American PLC
 author: ft
 ---
 

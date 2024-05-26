@@ -2,9 +2,8 @@
 title: 菲乔遇袭，欧盟反思政治谩骂
 date: 2024-05-17T05:00:55.435Z
 description: Also in this newsletter, concrete solutions to marry industry and climate
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

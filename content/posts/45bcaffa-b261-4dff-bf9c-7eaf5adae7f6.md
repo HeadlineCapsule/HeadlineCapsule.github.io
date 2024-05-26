@@ -2,9 +2,8 @@
 title: 马乔里·泰勒·格林的“美国第一”立场是否太极端，连特朗普也无法接受？
 date: 2024-05-12T04:00:21.747Z
 description: The rightwing congresswoman from Georgia seems to have outlived her usefulness to the former president
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 

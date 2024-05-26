@@ -2,16 +2,15 @@
 title: 我们不需要人工智能宣言，我们需要一部宪法
 date: 2024-05-09T04:00:08.890Z
 description: The technology can do wonderful things — but its achievements should not come at the expense of basic protections
-tag: 
-
-- Tag FT Swamp Notes
-- Tag  Deepmind Technologies Ltd
-- Tag  Toyota Motor Corp
-- Tag  Arm Ltd
-- Tag  Wayve
-- Tag  Apple Inc
-- Tag  June Yoon
-- Tag  Informa PLC
+tags: 
+- FT Swamp Notes
+- Deepmind Technologies Ltd
+- Toyota Motor Corp
+- Arm Ltd
+- Wayve
+- Apple Inc
+- June Yoon
+- Informa PLC
 author: ft
 ---
 

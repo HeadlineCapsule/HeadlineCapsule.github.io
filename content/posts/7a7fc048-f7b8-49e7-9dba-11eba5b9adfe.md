@@ -2,9 +2,8 @@
 title: 领先科技公司签署人工智能安全誓言
 date: 2024-05-21T12:15:14.729Z
 description: Artificial intelligence developers agree to assess when risks become ‘intolerable’ ahead of summit in Seoul
-tag: 
-
-- Tag technology
+tags: 
+- technology
 author: ft
 ---
 

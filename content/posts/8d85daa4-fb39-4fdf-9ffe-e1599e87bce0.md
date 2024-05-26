@@ -2,9 +2,8 @@
 title: 英格兰大学面临“关闭”风险，原因在于学生人数锐减
 date: 2024-05-15T18:40:25.939Z
 description: Report from Office for Students warns ‘significant changes’ needed to ‘funding model’
-tag: 
-
-- Tag world
+tags: 
+- world
 author: ft
 ---
 
