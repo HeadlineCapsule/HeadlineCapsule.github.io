@@ -1,0 +1,4 @@
+baseURL = 'https://headlinecapsule.github.io'
+languageCode = 'en-us'
+title = 'HeadlineCapsule'
+theme = 'papermod'
