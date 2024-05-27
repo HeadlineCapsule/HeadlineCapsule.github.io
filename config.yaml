@@ -13,7 +13,9 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: 
+- daily
+- posts
 
 minify:
   disableXML: true
@@ -29,6 +31,9 @@ languages:
       series: series
     menu:
       main:
+        - name: Daily
+          url: daily
+          weight: 4 
         - name: Archive
           url: archives
           weight: 5
@@ -89,7 +94,7 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
+    title: HeadlineCapsule
     imageUrl: "#"
     imageTitle: my image
     # imageWidth: 120
