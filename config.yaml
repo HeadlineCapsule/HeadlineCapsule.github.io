@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://headlinecapsule.github.io/"
-title: HeadlineCapsule
+title: "Headline Capsule: Daily News Summaries & Translations | Top Stories from FT.com and More"
 copyright: "© [HeadlineCapsule](https://github.com/HeadlineCapsule)"
 paginate: 20
 theme: [papermod]
@@ -73,7 +73,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: ""
+  description: "Stay informed with Headline Capsule's concise summaries and accurate translations of the latest news from FT.com and other leading sources. Quick, reliable, and easy to understand."
   author: HeadlineCapsule
   # author: ["Me", "You"] # multiple authors
 
