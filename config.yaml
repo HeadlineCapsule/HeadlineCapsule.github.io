@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://headlinecapsule.github.io/HeadlineCapsule/"
+baseURL: "https://headlinecapsule.github.io/"
 title: HeadlineCapsule
 copyright: "© [HeadlineCapsule](https://github.com/HeadlineCapsule)"
 paginate: 20
@@ -16,6 +16,7 @@ pygmentsUseClasses: true
 mainsections: 
 - daily
 - posts
+- HeadlineCapsule
 
 minify:
   disableXML: true
@@ -117,7 +118,7 @@ params:
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/headlineCapsule/HeadlineCapsule/"
+      url: "https://github.com/headlineCapsule/HeadlineCapsule.github.io/"
       #- name: Discord
       #  title: Join discord community
       #  url: "https://discord.gg/ahpmTvhVmp"
@@ -129,7 +130,7 @@ params:
       #  url: "https://ko-fi.com/adityatelange"
 
   editPost:
-    URL: "https://github.com/HeadlineCapsule/HeadlineCapsule/tree/main/content/"
+    URL: "https://github.com/HeadlineCapsule/HeadlineCapsule.github.io/tree/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
