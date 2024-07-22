@@ -1,53 +1,59 @@
 ---
-title: 全球公司受微软停机影响
+title: 全球公司遭遇微软故障
 date: 2024-07-19T17:50:08.594Z
 description: Financial services groups, airlines and media sites among those affected
 tags: 
-- companies
+- technology
 author: ft
 ---
 
 [原文链接](https://ft.com/content/fba9b61d-efcf-4348-b640-ccb1f9d18ced)
 
-全球公司受微软停机影响
+全球公司遭遇微软故障
 
-# 全球 IT 中断事件影响多个行业
+# 全球 IT 系统中断影响众多行业
 
 **金融服务：**
-- 全球银行、经纪公司和金融科技公司，如摩根大通、瑞银、Bloomebox 和 ION 集团，由于停机而出现系统访问问题。伦敦证券交易所的交易场所未受影响，但其新闻服务在当天稍后恢复之前面临中断。
+- 全球银行、经纪公司和金融科技公司，如摩根大通、瑞银集团、Bloomebox 和 ION 集团，因系统访问问题而出现贸易处理能力受限。伦敦证券交易所的新闻服务也暂时不可用。
 
 **交通运输：**
-- 联合航空、英国航空和瑞安航空等航空公司报告航班取消和延误，原因是停机导致的系统故障。中断发生在一年中交通最繁忙的时刻之一，全球数以千计的航班受到影响。KLM 等机场暂时停止运营，因为他们发现“无法处理航班”。
+- 航空公司受到重大影响，多个系统出现故障，包括飞机重量计算、客户办理登机手续和呼叫中心运营，导致全球各地数千架航班取消，包括美国、英国、印度、澳大利亚等地区。一些航空公司如荷兰皇家航空暂时停运，而其他航空公司则继续运营但出现延误。
 
 **媒体、消费者和体育：**
-- 英国天空新闻台因停机而暂停节目播出，但在周五上午后来恢复广播。曼联由于微软服务器的问题推迟了比赛门票的 sale，巴黎奥运会组委会也报告了 IT 中断事件，距离接待数百万访客只有一个星期的时间。
+- 英国天空新闻台在周五上午不得不暂停直播广播一段时间，随后又恢复播出。曼联因系统故障推迟了门票销售。巴黎奥运会组委会也在举办活动前夕报告了 IT 中断问题，将接待数百万游客。
 
 **医疗保健：**
-- 英国全科医生行医实践在沟通患者和提供服务方面遇到困难，原因是 EMIS 预约和患者记录系统出现问题。德国什勒斯维希-霍尔斯坦州医院取消了选定手术，马萨诸塞州总医院推迟了非紧急手术和医疗预约。
+- 英国许多全科医生诊所受到 EMIS（患者记录系统）问题的困扰，不得不采用非数字通信方法提供服务。德国什勒斯维希-霍尔斯坦州医院网络取消了选修手术并关闭了门诊部，而美国马萨诸塞州总医院布里格姆则取消了所有非紧急手术和医疗预约。
 
 **CrowdStrike 的回应：**
-该网络安全公司表示，中断是由 Windows 主机单个内容更新中的缺陷引起的。他们向客户保证将提供恢复支持，并强调这不是安全事件或网络攻击。
+- CrowdStrike 承认，针对 Windows 主机的内容更新导致了全球 IT 系统的宕机，但向客户保证将在恢复工作中提供支持。该公司声明：“这不是安全事件或网络攻击。”
+
+**市场影响：**
+- 在纽约证券交易所的早间交易中，微软和 CrowdStrike 的股价因中断消息而小幅下跌。
 
 ---
 
  **Summary:**
 
-A global IT outage caused by an update from cybersecurity firm CrowdStrike affected various sectors worldwide on Friday. The disruption impacted financial services, transportation (including airlines and airports), media companies, consumer businesses, sports organizations, and healthcare facilities.
+A global IT systems outage caused by an update from cybersecurity firm CrowdStrike affected numerous sectors worldwide on Friday. The disruption impacted financial services, transportation (including airlines and airports), media companies, consumer businesses, sports organizations, healthcare providers, and more.
 
 **Financial Services:**
-- Global banks, brokers, and fintech firms such as JPMorgan Chase, UBS, Bloomebox, and ION Group experienced system access issues due to the outage. The London Stock Exchange's trading venue was unaffected but its news service faced interruptions before being restored later in the day.
+- Global banks, brokers, and fintech firms such as JPMorgan Chase, UBS, Bloomebox, and ION Group experienced system access issues that hindered trade processing capabilities. The London Stock Exchange's news service was also temporarily unavailable.
 
 **Transportation:**
-- Airlines such as United, British Airways, and Ryanair reported flight cancellations and delays due to system failures caused by the outage. The disruption occurred during one of the busiest travel times of the year, affecting thousands of flights globally. Some airports like KLM temporarily suspended operations as they found it "impossible to handle flights."
+- Airlines faced significant disruptions in flight schedules due to the outage affecting multiple systems like aircraft weight calculation, customer check-in, and call center operations. This led to thousands of flight cancellations across various regions including the US, UK, India, Australia, and more. Some airlines such as KLM temporarily suspended operations while others continued operating with delays.
 
-**Media, Consumer and Sport:**
-- Sky News in the UK had to suspend programming due to the outage but resumed broadcasting later on Friday morning. Manchester United delayed ticket releases for its matches because of issues with Microsoft Servers. The Paris Olympic Games organizers also reported IT disruptions just a week before hosting millions of visitors.
+**Media, Consumer, and Sports:**
+- Sky News in the UK had to suspend live TV broadcasting for a period on Friday morning but resumed later. Manchester United delayed ticket releases due to the outage affecting their systems. The Paris Olympic Games organizers also reported IT disruptions just before hosting millions of visitors.
 
-**Health:**
-- UK GP practices faced difficulties in communicating with patients and providing services due to an issue with the EMIS appointment and patient record system. German hospital Schleswig-Holstein had to cancel elective operations, while Mass General Brigham in Massachusetts postponed non-urgent surgical procedures and medical appointments.
+**Healthcare:**
+- In the UK, many GP practices were impacted by an issue with EMIS, a patient record system, leading them to resort to non-digital communication methods and service provision. German hospital network Schleswig-Holstein had to cancel elective operations and close walk-in clinics, while Mass General Brigham in the US canceled all non-urgent surgical procedures and medical appointments.
 
 **CrowdStrike's Response:**
-The cybersecurity firm stated that the outage was caused by a defect found in a single content update for Windows hosts. They assured customers of their support to assist with recovery, emphasizing that it was not a security incident or cyber attack.
+- CrowdStrike acknowledged that a content update for Windows hosts was responsible for bringing down IT systems globally but assured customers of their support during recovery efforts. The company stated, "This is not a security incident or cyber attack."
+
+**Market Impact:**
+- Microsoft and CrowdStrike's stock prices experienced slight declines in early afternoon trading on the New York Stock Exchange following the outage news.
 
 [Source Link](https://ft.com/content/fba9b61d-efcf-4348-b640-ccb1f9d18ced)
 
